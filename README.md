@@ -1,20 +1,20 @@
-![img_3.png](img_3.png)![img_2.png](img_2.png)![img_1.png](img_1.png)![img.png](img.png)# test_maquinaria_carvel
-<<<<<<< HEAD
+#HP caracter App
 
-A new Flutter project.
+Aplicación flotter que consume la API de Harry Potter para mostrar información sobre los personajes de la saga.
 
-## Getting Started
+## Tecnologias
+- Flutter 3.35.7(stable)
+- -Dart SDK
+- Provider
+- HTTP
 
-This project is a starting point for a Flutter application.
+##Ejecución
+1. Clonar el repositorio
+2. Ejecutar `flutter pub get` para instalar las dependencias
+3. Ejecutar `flutter run` para iniciar la aplicación
 
-A few resources to get you started if this is your first Flutter project:
+##API
+https://hp-api.onrender.com/api/characters
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-aplicacion de prueba de habilidades para el desarrollo de aplicaciones mobiles
->>>>>>> 79f162291b7d1a2297ff2cabda95b2ffcc64d6e3
+##Desarrollador
+- Nombre: Carlos Ivan Salinas Garcia
