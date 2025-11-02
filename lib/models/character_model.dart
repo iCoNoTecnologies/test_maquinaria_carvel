@@ -10,7 +10,7 @@ class Wand {
   final String? core;
 
   @JsonProperty(name: 'length')
-  final dynamic length; // puede venir como num o null
+  final dynamic length;
 
   Wand({this.wood, this.core, this.length});
 
@@ -111,7 +111,6 @@ class CharacterModel {
     this.image,
   });
 
-  // factory manual para garantizar compatibilidad
   factory CharacterModel.fromJson(dynamic json) {
     return CharacterModel(
       id: json['id'] as String?,
