@@ -1,6 +1,6 @@
 #HP caracter App
 
-Aplicación flotter que consume la API de Harry Potter para mostrar información sobre los personajes de la saga.
+Aplicación flutter que consume la API de Harry Potter para mostrar información sobre los personajes de la saga.
 
 ## Tecnologias
 - Flutter 3.35.7(stable)
